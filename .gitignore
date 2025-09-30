@@ -1,0 +1,22 @@
+# El archivo .gitignore sirve para decirle a git que NO suba a ningún respositorio determinados archivos y directorios
+# (y que no guarde información sobre los cambios de estos)
+
+# Al marcar *.extension ignoramos todos los archivos de esta extension
+*.mp3
+*.pdf
+*.log
+
+# Es comun ignorar archivos de configuración, datos sensibles, las contraseñas a la base de datos...
+.env
+config.local.js
+
+# Para ignorar una carpeta, añade /
+# Es común ignorar la compilación del código si solo queremos mostrar el código
+build/
+
+# Dependiendo del caso, las librerías adicionales que has usado se pueden ignorar ya que el otro programador puede querer manejar sus librerías
+node_modules/
+
+
+
+
