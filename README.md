@@ -1,18 +1,23 @@
-# Markdown format example
-Usually, this file should be a **README**, the file that explains your project, how to install it and use it, the documentation, etc.
+# My first GIT activity
 
-The Markdown format is a simple way to structure plain text using symbols.
+This file is a **README**. It is a very important file in every repository since it explain what is here, how to install or use the software, documentation, etc.
+It is written in Markdown format, you can learn more [here](./MarkDownFormatExample.md).
 
-You can emphasize text by making it bold (using **text between two asteriscos**) or italic (using *text between one asterisco*). Create links like this: [Link Text](https://example.com). 
+## (ES) Instrucciones de la actividad
 
-## Subtitles with two almohadillas
-### Also sub-subtitles, etc.
-Finally, use a hyphen (-) for unordered lists or numbers (1.) 
-- Item 1
-- Item 2
-- Item 3
-1. Number 1
-2. Number 2
-3. Number 3
+1. Crea una cuenta en GitHub y envíame tu email tan pronto como sea posible. Necesito añadirte manualmente como colaborador/a para que puedas completar la actividad!
+2. Clona este repositorio en tu PC con _git clone_
+3. Modifica index.html para añadir una `<div>` que contenga tu nombre. Añade también en la sección `<style>` un estilo sencillo.
+4. Haz _stage_ de index.html y haz tu primer commit. ¡No te olvides el mensaje!
+5. Haz push. Deberás logearte
+6. Resuelve los conflictos si estos surgen. No borres el trabajo de otro alumno/a!
 
-There are extensions for browsers to watch properly markdowns files before uploading it to a repositoire
+
+## (EN) Activity Instructions
+1. Create a GitHub account and send me your email address as soon as possible. I need to manually add you as a collaborator so you can complete the activity!
+2. Clone this repository to your PC using git clone.
+3. Modify index.html to add a `<div>` containing your name. Also, add a simple style in the `<style>` section.
+4. Stage index.html and make your first commit. Don't forget the message!
+5. Push your changes. You will need to log in.
+6. Resolve any conflicts if they arise. Do not delete the work of another student!
+
